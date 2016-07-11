@@ -1,4 +1,21 @@
-#1
+#First_span
 {
-	background: color turquoise;
+	background-color: #40e0d0;
+	text-align: center;
+}
+#Outter
+{
+	float :right;
+	padding-left: 100px;
+	text-align: center;
+}
+#Second_Span
+{
+	float:center;
+	padding-right: 500px;	
+	text-align: center; 
+}
+#Wrapper
+{
+	margin-left: 500px;
 }
