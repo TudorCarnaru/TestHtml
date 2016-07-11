@@ -5,7 +5,7 @@
 }
 #Outter
 {
-	float :right;
+
 	padding-left: 100px;
 	text-align: center;
 }
@@ -18,4 +18,8 @@
 #Wrapper
 {
 	margin-left: 500px;
+}
+button+button
+{
+	margin-left : 10px;
 }
