@@ -95,3 +95,25 @@ footer
 	font-size : 140%;
 	padding-right: 100px;
 }
+
+
+#editAboutUs{
+	text-align: center;
+	font-size: 180%;
+	font-family: "Lucida Console", Monaco, monospace;
+	border-bottom: 3px solid #9DA19F; 
+    line-height: 0.0em;
+    margin: 10px 0 20px; 
+    background:#fff; 
+    width: 60%;
+    float: center;
+    left: 50%;
+    transform: translate(-50%,0%);
+    position: absolute;
+	
+
+}
+#editSpan { 
+    background:#fff; 
+    padding:0px 20px; 
+} 
