@@ -74,4 +74,23 @@ button:hover
 #photo
 {
 	margin:30px;
+	font-size: 200%;
+	font-family: "typewriter";
+	max-width: 200px;
+}
+#photo1
+{
+	margin:30px;
+	font-size: 105%;
+	max-width: 200px;
+}
+
+footer
+{
+	background-color : black;
+	height : 100px;
+	color:white;
+	text-align: right;
+	font-size : 140%;
+	padding-right: 100px;
 }
