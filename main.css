@@ -1,6 +1,7 @@
 #First_span
 {
 	text-align: center;
+	margin: 25px;
 }
 #Outter
 {
@@ -18,13 +19,16 @@
 {
 	margin-left: 450px;
 }
+#Wrapper2
+{
+	text-align: center;
+	background-color: #40e0d0;
+}
 #Wrapper1
 {
 	background-color: #40e0d0;
 	text-align: center;
 	box-shadow: 0 7px 6px -6px #999; 
-	margin-left: 300px;
-	margin-right: 300px;
 }
 button+button
 {
@@ -47,14 +51,13 @@ button:hover
 	border:5px solid black;
 	background-color: black;
 }
-#gallery-item {
-  margin: 30px;
-}
 #gallery-item {  
   border: 5px solid #FFF;
+  margin: 30px;
 }
 
 #gallery-item .thumbnail {
+  text-align: center;
   border: 5px solid #fff;
 }
 
@@ -66,4 +69,9 @@ button:hover
   justify-content: center;
   margin-left: 300px;
   margin-right: 300px;
+}
+
+#photo
+{
+	margin:30px;
 }
