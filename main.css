@@ -30,6 +30,10 @@
 	text-align: center;
 	box-shadow: 0 7px 6px -6px #999; 
 }
+#Wrapper3
+{
+	padding-top: 2%;
+}
 button+button
 {
 	margin-left : 10px;
@@ -121,3 +125,10 @@ footer
     background:#fff; 
     padding:0px 20px; 
 } 
+
+#formular
+{
+	background-color: white;
+	margin-left: 27%;
+	margin-right: 27%;
+}
