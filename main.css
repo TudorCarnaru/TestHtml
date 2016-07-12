@@ -22,6 +22,7 @@
 #Wrapper2
 {
 	text-align: center;
+
 	background-color: #40e0d0;
 }
 #Wrapper1
@@ -75,8 +76,8 @@ button:hover
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 15%;
+  margin-right : 15%;
 }
 
 #photo
@@ -133,7 +134,11 @@ footer
 	margin-right: 27%;
 }
 
+#Message
+{
+	float:right;
+}
 #Data
 {
-	padding-left : 5%:;
+	padding-left: 5%;	
 }
