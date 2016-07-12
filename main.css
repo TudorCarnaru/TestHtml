@@ -6,19 +6,18 @@
 }
 #Outter
 {
-	
+  	justify-content: flex-end;
 	text-align: center;
 	box-shadow: 0 7px 6px -6px #999; 
 }
 #Second_Span
 {
-	float:center;
-	padding-right: 500px;	
 	text-align: center; 
 }
 #Wrapper
 {
-	margin-left: 450px;
+	margin-left: 15%;
+	margin-right : 15%;
 }
 #Wrapper2
 {
@@ -57,6 +56,10 @@ button:hover
   margin: 30px;
 }
 
+.thumbnail
+{
+	width : 50%;
+}
 #gallery-item .thumbnail {
   text-align: center;
   border: 5px solid #fff;
@@ -68,8 +71,8 @@ button:hover
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 5%;
+  margin-right: 5%;
 }
 
 #photo

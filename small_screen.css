@@ -1,0 +1,21 @@
+@media screen and (min-width: 500px) 
+{
+	body,head
+	{
+		display: inline-block;
+    	width: 45%;
+	}
+	#gallery-item .thumbnail
+    	{
+    		size : 50%;
+    	}
+    #gallery-item
+    {
+    	size : 50%;
+    }
+    #Wrapper
+	{
+	margin-left: 150px;
+	margin-right : 150px;
+	}
+}
