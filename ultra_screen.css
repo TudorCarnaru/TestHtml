@@ -1,0 +1,12 @@
+@media (min-width: 360px) 
+{
+	body
+	{
+		display: inline-block;
+    	width: 5%;
+	}
+	#gallery-item .thumbnail
+    	{
+    		size : 10%;
+    	}
+ }
